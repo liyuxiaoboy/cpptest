@@ -1,0 +1,3 @@
+/home/yx_li/cpptest/build/CMakeFiles/edit_cache.dir
+/home/yx_li/cpptest/build/CMakeFiles/rebuild_cache.dir
+/home/yx_li/cpptest/build/CMakeFiles/test.dir
